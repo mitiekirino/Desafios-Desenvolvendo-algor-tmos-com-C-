@@ -9,6 +9,8 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 Saída
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal.
 
+--------------------------------------------------------------------------
+
 Desafio 2 
 A Copa do Mundo de Futebol é um dos maiores eventos esportivos do Planeta Terra, e o álbum de figurinhas oficial é sempre um grande sucesso entre os amantes dessa competição. O álbum contém espaços numerados de 1 a N para colar as figurinhas; cada figurinha, também numerada de 1 a N, é uma pequena foto de um jogador de uma das seleções que jogará a Copa do Mundo. O objetivo é colar todas as figurinhas nos respectivos espaços no álbum, de modo a completar o álbum, ou seja, não deixar nenhum espaço sem a correspondente figurinha.
 
@@ -24,6 +26,7 @@ A primeira linha contém um inteiro N (1 ≤ N ≤ 100) indicando o número tota
 Saída
 Seu programa deve produzir uma única linha contendo um inteiro representando o número de figurinhas que falta para completar o álbum.
 
+------------------------------------------------------------------------------
 
 Desafio 3
 Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita.  Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
